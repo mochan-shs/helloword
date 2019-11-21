@@ -1,2 +1,0 @@
-# helloword
-just another repository
