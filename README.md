@@ -1,5 +1,6 @@
 # helloword
 just another repository
+//逻辑二叉树.h
 struct BiNode{
 	char data[10];
 	BiNode * lchild;
